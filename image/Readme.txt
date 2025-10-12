@@ -1,0 +1,1 @@
+This folder is a space for receiving images from the robot.
